@@ -37,7 +37,7 @@ This repository contains a Streamlit-based application to explore and run severa
     ```
 3. Install the required dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install streamlit numpy pandas
     ```
 4. Run the Streamlit application:
     ```bash
